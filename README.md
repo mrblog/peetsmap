@@ -1,6 +1,6 @@
 # Peet's Coffee Locator
 
-I built this app because the offical Peet's app and website are so terrible for location Peet's shops.
+I built this app because the official Peet's app and website are so terrible for locating Peet's shops.
 
 This is a simple webapp using the Google Maps API to locate Peet's Coffee shops and get directions to them.
 
@@ -26,6 +26,8 @@ Mobile
 ![Mobile](screenshots/mobile.jpg)
 
 ### Customization
+
+You will need a Google Maps API key of course.
 
 As noted, the app has data on Peet's locations in California, scraped from the Peet's website and geocoded using the [Texas A&M Geocoding Services](http://geoservices.tamu.edu/Services/Geocode/). You can generate data for other states or generalize the app to select states.
 
