@@ -13,7 +13,7 @@ You can modify it for your needs or generalized it.
 
 Deployed to:
 
-https://peetsmaps.toyz.org
+https://peetsmap.toyz.org
 
 ## Screenshots
 
